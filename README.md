@@ -51,7 +51,7 @@ Our project was created using the code first methodology.
 </details>
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm/MyCoreBlog&layout=compact" >
 </details>
 
 <img src="https://media.giphy.com/media/SyPXYZDvcxLdLZGpko/giphy.gif" align ="left" width="400" height="250"  >
