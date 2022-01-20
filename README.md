@@ -7,6 +7,7 @@
 - .NET Core
 - MVC Pattern
 - N-Tier Architecture
+- Son Ders : 36
 
 Our project was created using the code first methodology.
 
